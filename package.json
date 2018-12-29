@@ -1,6 +1,6 @@
 {
   "name": "nobita-logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nobita-logger",
   "main": "lib/nobita-logger.js",
   "dependencies": {
