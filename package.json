@@ -1,6 +1,6 @@
 {
   "name": "nobita-logger",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "nobita-logger",
   "main": "lib/nobita-logger.js",
   "dependencies": {
@@ -11,11 +11,12 @@
     "koa-router": "^7.4.0"
   },
   "files": [
-    "lib"
+    "lib",
+    "template"
   ],
   "repository": { 
     "type" : "git", 
-    "url" : "https://github.com/iamtang/nobita.git"
+    "url" : "https://github.com/nobitajs/nobita.git"
   },
   "keywords": [
     "koa",
@@ -26,7 +27,7 @@
     "node": ">=8.0.0"
   },
   "bugs": {
-    "url": "https://github.com/iamtang/nobita/issues",
+    "url": "https://github.com/nobitajs/nobita/issues",
     "email": "303907720@qq.com"
   },
   "author": "JJ",
